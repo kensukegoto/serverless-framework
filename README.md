@@ -54,4 +54,8 @@ aは`promise`ではなく通常`then`された後の成功時に渡る引数と�
 
 # 参照
 
+## serverless framework
+https://qiita.com/horike37/items/b295a91908fcfd4033a2
+
+## dynamoの操作
 https://qiita.com/Fujimon_fn/items/66be7b807a8329496899
